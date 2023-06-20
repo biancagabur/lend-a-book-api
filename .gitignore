@@ -1,2 +1,4 @@
 /.env
 /.flaskenv
+/.idea/vcs.xml
+/instance/books.db
