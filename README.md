@@ -1,6 +1,7 @@
 # # lend-a-book-api
 Flask based API
 The idea behind this API was to learn Flask and how it works, and also to improve my python knowledge. 
+
 In order to run this application you can use the requiremnts.txt file using the following commad:  
 
 ```bash
