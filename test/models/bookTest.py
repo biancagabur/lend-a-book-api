@@ -17,6 +17,9 @@ class MyTestCase(unittest.TestCase):
     def test_contains_id(self):
         self.assertIsNotNone(self.book.id)
 
+    def test_contains_title(self):
+        self.assertIsNotNone(self.book.title)
+
 
 if __name__ == '__main__':
     unittest.main()
